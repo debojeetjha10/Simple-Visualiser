@@ -17,7 +17,7 @@ ___
 
 <h1>WAVE</h1>
 
-![](screenshots/wave.html)
+![](screenshots/wave.gif)
 
 ___
 ___
