@@ -27,6 +27,9 @@ ___
 height = 400px
 weight = 800px
 alt = "screenshot 1">
+
+<h1> wave.html </h1>
+
 <img src = "screenshots/pic2.png"
 height = 400px
 weight = 800px
