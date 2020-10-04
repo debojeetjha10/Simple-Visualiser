@@ -9,7 +9,16 @@ Just open the above [visualise.html](visualise.html) in any browser
 ___
 ___
 ## Animation
+<h1>VISUALISE</h1>
+
 ![](screenshots/visualise.gif)
+
+___
+
+<h1>WAVE</h1>
+
+![](screenshots/wave.html)
+
 ___
 ___
 ## ScreenShots
